@@ -23,7 +23,7 @@ const Logo = styled.img`
 function Header() {
   return (
     <StyledHeader>
-      <Logo src="src/assets/fist1.png" alt="Logo" />
+      <Logo src="assets/fist1.png" alt="Logo" />
       <h1>Handy</h1>
     </StyledHeader>
   );
