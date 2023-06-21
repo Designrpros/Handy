@@ -71,7 +71,7 @@ function App() {
           <Title>Welcome to Handy!</Title>
           <Description>Map Your Projects, Simplifying Your Life</Description>
         </Content>
-        <AppPreview src="src/assets/Fist.png" alt="App preview" />
+        <AppPreview src="assets/Fist.png" alt="App preview" />
         <DownloadLink href="https://www.apple.com/app-store/">
           Download on the App Store
         </DownloadLink>

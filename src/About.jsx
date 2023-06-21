@@ -97,7 +97,7 @@ function About() {
           </Description>
         </Column>
         <Column>
-          <Image src="src/assets/Handy.png" alt="Handy App" />
+        <Image src="/assets/Handy.png" alt="Handy App" />
         </Column>
       </Row>
       <Spacer />
@@ -109,7 +109,7 @@ function About() {
           </Description>
         </Column>
         <Column>
-          <Image src="src/assets/Handy.png" alt="Handy App" />
+        <Image src="/assets/Handy.png" alt="Handy App" />
         </Column>
       </ReversedRow>
     </AboutContainer>
